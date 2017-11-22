@@ -1,0 +1,10 @@
+{
+  "name": "respec",
+  "version": "0.0.0",
+  "description": "Parameterized behavioral specification based on first-order logic",
+  "scripts": {
+    "test": "node cli"
+  },
+  "author": "Ken Merthe",
+  "license": "MIT"
+}
